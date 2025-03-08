@@ -1,7 +1,6 @@
 # 📌 Valutazione delle Mappe di Salienza Basate su Gaze Following per la Predizione dello Sguardo nei Video  
 
 ## Descrizione  
-Questo repository contiene il paper _"Valutazione delle mappe di salienza basate su gaze following per la predizione dello sguardo nei video"_, scritto da **Stefano Giacoia**.  
 Il lavoro esplora l’uso di modelli avanzati di **intelligenza artificiale** per stimare la direzione dello sguardo in contesti dinamici e sociali, fornendo nuove prospettive sull’interazione visiva e il comportamento collettivo.
 
 L’obiettivo della ricerca è sviluppare una **Social Context-Gaze-Behavior Value Map** che riflette la salienza visiva degli oggetti o delle persone osservate dai soggetti nei video.  
